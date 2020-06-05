@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/arreguin/.dotnet/store/|arch|/|tfm|",
+      "/home/arreguin/.nuget/packages"
+    ]
+  }
+}

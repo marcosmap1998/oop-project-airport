@@ -1,0 +1,13 @@
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/bin/Debug/netcoreapp3.1/proyecto-poo-aeropuerto
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/bin/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.deps.json
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/bin/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.runtimeconfig.json
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/bin/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.runtimeconfig.dev.json
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/bin/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.dll
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/bin/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.pdb
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.csprojAssemblyReference.cache
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.AssemblyInfoInputs.cache
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.AssemblyInfo.cs
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.csproj.CoreCompileInputs.cache
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.dll
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.pdb
+/home/arreguin/Escritorio/proyecto-poo-aeropuerto/obj/Debug/netcoreapp3.1/proyecto-poo-aeropuerto.genruntimeconfig.cache

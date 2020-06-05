@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+n+/bOeKmI9x/4EUskIBLBez5PxeBmpvS5VAVv6eumBj14EqGGD/XbRbH0WRdHYa8Rfkp5ZyTN49NXiqiglDA==",
+  "success": true,
+  "projectFilePath": "/home/arreguin/Escritorio/proyecto-poo-aeropuerto/proyecto-poo-aeropuerto.csproj",
+  "expectedPackageFiles": [
+    "/home/arreguin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
